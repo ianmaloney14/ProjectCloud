@@ -8,6 +8,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <title>New Project</title>
+<link rel="icon" type="image/x-icon" href="/images/favicon.io">
 </head>
 <body>
 

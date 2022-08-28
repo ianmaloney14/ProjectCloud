@@ -8,6 +8,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <title>Home</title>
+<link rel="icon" type="image/x-icon" href="/images/favicon.io">
 </head>
 <body>
 
