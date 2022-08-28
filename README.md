@@ -2,7 +2,11 @@
 
 ![MIT License](https://img.shields.io/badge/license-MIT-brightgreen) ![Contributors](https://img.shields.io/github/contributors/TMDStudios/ProjectCloud)
 
+Project Description: 
+
 Project Cloud aims to help users generate project ideas for their portfolio and to encourage collaboration
+
+
 
 The website is available here: https://open-project-cloud.herokuapp.com/
 
